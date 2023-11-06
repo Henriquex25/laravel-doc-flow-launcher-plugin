@@ -1,0 +1,12 @@
+{
+  "ID": "890a6a95-5d36-4fab-bce1-b4c3f1239015",
+  "ActionKeyword": "npm",
+  "Name": "Search NPM",
+  "Description": "Laravel Docs",
+  "Author": "Henrique Miranda",
+  "Version": "0.0.1",
+  "Language": "TypeScript",
+  "ExecuteFileName": "./dist/main.js",
+  "Website": "https://github.com/Henriquex25/laravel-doc-flow-launcher-plugin",
+  "IcoPath": "./assets/npm.png"
+}
