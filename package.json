@@ -1,6 +1,6 @@
 {
-	"name": "flow-launcher-plugin-template-node",
-	"description": "Flow Launcher plugin template for Node.js",
+	"name": "laravel-doc-flow-launcher-plugin",
+	"description": "Laravel documentation search engine",
 	"main": "./dist/main.js",
 	"scripts": {
 		"dev": "tsc --watch",
